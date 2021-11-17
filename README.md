@@ -1,1 +1,1 @@
-# Please see the wiki section for documentation.
+Please see the wiki section for documentation.
